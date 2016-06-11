@@ -1,2 +1,2 @@
 # ScalaLearning
-Practicing Scala
+Practicing/Learning Scala
